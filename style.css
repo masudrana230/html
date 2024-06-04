@@ -1,0 +1,130 @@
+h1{
+	color: blue;
+	font-size: 40px	
+	font-style: oblique;
+	 font-family: Verdana;
+	 text-align: center;
+	  
+}
+body{
+	background-color: pink;
+	
+	
+	
+}
+
+#paypay{ color: blue;
+font-size: 20px
+
+}
+.am{ color: red
+	
+}
+.mango{
+	background-color: red;
+	width: 300px;
+	height: 200px;
+	margin-top: 20px;
+	margin-top: 20px;
+	margin-bottom:20px;
+	padding: 20px;
+	
+
+}
+#apple{
+	background-color: blue;
+	width: 300px;
+	height: 200px;
+	
+}
+
+
+#wrapper{
+border: 5px solid red;
+width: 500px;
+height: 300;	
+	
+	overflow: scroll
+	
+	
+	
+}
+.lip{
+	width: 300px;
+	height: 200px;
+	background-color: red;
+	margin-top: 20px;
+	transition:background-color 3s, width 3s
+}
+.lip:hover{
+	width: 500px;
+	height: 200px;
+	background-color: blue;
+	
+	
+}
+
+h1:hover{
+	color: blue;
+	font-size: 70px;
+	
+	
+}
+
+.mon{
+	
+	width: 300px;
+	height: 200px;
+	background-color: red;
+	margin-top: 20px;
+	transform:skewx(5deg);
+	background: linear-gradient(to top,red,green,blue)
+	
+	
+}
+.son{
+	
+	width: 300px;
+	height: 200px;
+	background-color: red;
+	margin-top: 20px;
+	background:radial-gradient(red 30%,green 70%)
+	
+	
+	
+}
+
+.ton{
+	
+	width: 300px;
+	height: 200px;
+	background-color:red;
+	
+	
+	animaion-name:lily;
+	animation-duration:3s;
+	animation-iteration-count:infinite
+	
+	
+}
+
+@keyframes lily{
+	from{background:yellow}
+	to{background:blue; border-radius:50%}
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
